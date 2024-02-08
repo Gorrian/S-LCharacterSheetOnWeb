@@ -1,0 +1,101 @@
+{
+    "CharacterInfo":{
+        "Name":"",
+        "Race":"",
+        "Gender":"",
+        "Age":0,
+        "Height":0,
+        "Weight":0,
+        "CharacterDescription":""
+    },
+    "MetaInfo":{
+        "Player":"",
+        "Total XP":0,
+        "Current XP":0,
+        "HP Increases":0,
+        "Stun Increases":0,
+        "Size class":""
+    },
+    "focuses":{
+        "values":{
+            "Academics":0,
+            "Agriculture":0,
+            "Alliance":0,
+            "Biology":0,
+            "Cartography":0,
+            "Chemistry":0,
+            "Cooking":0,
+            "Corporate":0,
+            "Crafting":0,
+            "Crime":0,
+            "Customs":0,
+            "Digital":0,
+            "Engineering":0,
+            "Exploration":0,
+            "First Aid":0,
+            "Folklore":0,
+            "Foraging":0,
+            "History":0,
+            "Law":0,
+            "Medicine":0,
+            "Perception":0,
+            "Performance":0,
+            "Phisics":0,
+            "Political":0,
+            "Prioribi":0,
+            "Security":0,
+            "Space Faring":0,
+            "Stealth":0,
+            "Tactics":0,
+            "Trade":0,
+            "Underworld":0
+        }
+    },
+    "statistics":{
+        "Charisma":{
+            "value":0,
+            "proficiencyLevel":0
+        },
+        "Convince":{
+            "value":0,
+            "proficiencyLevel":0
+        },
+        "Logic":{
+            "value":0,
+            "proficiencyLevel":0
+        },
+        "Intuition":{
+            "value":0,
+            "proficiencyLevel":0
+        },
+        "Agility":{
+            "value":0,
+            "proficiencyLevel":0
+        },
+        "Dexterity":{
+            "value":0,
+            "proficiencyLevel":0
+        },
+        "Strength":{
+            "value":0,
+            "proficiencyLevel":0
+        },
+        "Endurance":{
+            "value":0,
+            "proficiencyLevel":0
+        }
+    },
+    "deathChecks":{
+        "Pass":0,
+        "Fail":0
+    },
+    "Languages":[
+
+    ],
+    "Skills":{
+    
+    },
+    "Perks":{
+        
+    }
+}
