@@ -52,50 +52,90 @@
         }
     },
     "statistics":{
-        "Charisma":{
-            "value":0,
-            "proficiencyLevel":0
-        },
-        "Convince":{
-            "value":0,
-            "proficiencyLevel":0
-        },
-        "Logic":{
-            "value":0,
-            "proficiencyLevel":0
-        },
-        "Intuition":{
-            "value":0,
-            "proficiencyLevel":0
-        },
-        "Agility":{
-            "value":0,
-            "proficiencyLevel":0
-        },
-        "Dexterity":{
-            "value":0,
-            "proficiencyLevel":0
-        },
-        "Strength":{
-            "value":0,
-            "proficiencyLevel":0
-        },
-        "Endurance":{
-            "value":0,
-            "proficiencyLevel":0
+        "Stats":{
+            "Charisma":{
+                "value":0,
+                "proficiencyLevel":0
+            },
+            "Convince":{
+                "value":0,
+                "proficiencyLevel":0
+            },
+            "Logic":{
+                "value":0,
+                "proficiencyLevel":0
+            },
+            "Intuition":{
+                "value":0,
+                "proficiencyLevel":0
+            },
+            "Agility":{
+                "value":0,
+                "proficiencyLevel":0
+            },
+            "Dexterity":{
+                "value":0,
+                "proficiencyLevel":0
+            },
+            "Strength":{
+                "value":0,
+                "proficiencyLevel":0
+            },
+            "Endurance":{
+                "value":0,
+                "proficiencyLevel":0
+            }
         }
+        
     },
     "deathChecks":{
         "Pass":0,
         "Fail":0
     },
-    "Languages":[
+    "Languages":{
 
-    ],
+    },
     "Skills":{
     
     },
     "Perks":{
         
+    },
+    "Health":{
+        "HP":{
+            "Current":0,
+            "Max":0
+        },
+        "Stun":{
+            "Current":0,
+            "Max":0
+        }
+    },
+    "IABody":{
+        "Name":"",
+        "Agility":0,
+        "Dexterity":0,
+        "Strength":0,
+        "Endurance":0,
+        "MaxRes":0,
+        "Res":0
+    },
+    "DefenceValues":{
+        "Normal":8,
+        "Surprised":8,
+        "Touch":8
+    },
+    "Armor":{
+        "Type":"None",
+        "PA":"0",
+        "EA":"0"
+    },
+    "Speed":0,
+    "HealingResources":{
+        "Medigel":false,
+        "Medifoam":false,
+        "MaxStunDie":0,
+        "CurrentStunDie":0
     }
+
 }
